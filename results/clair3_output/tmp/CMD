@@ -1,0 +1,1 @@
+/home/zainab/miniconda3/envs/clair3_env/bin/run_clair3.sh --bam_fn=/home/zainab/hg002-variant-calling/data/HG002.bam --ref_fn=/home/zainab/ref_genome.fasta --threads=8 --platform=ilmn --model_path=/home/zainab/miniconda3/envs/clair3_env/bin/models/ilmn --output=/home/zainab/hg002-variant-calling/results/clair3_output --ctg_name=Escherichia_coli_chromosome --no_phasing_for_fa

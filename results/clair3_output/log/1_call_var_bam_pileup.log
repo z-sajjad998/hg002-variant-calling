@@ -1,0 +1,7 @@
+[INFO] Delay 4 seconds before starting variant calling ...
+[faidx] Truncated sequence: Escherichia_coli_chromosome:1-4766434
+[mpileup] 1 samples in 1 input files
+Calling variants ...
+Total processed positions in Escherichia_coli_chromosome (chunk 1/1) : 0
+Total time elapsed: 0.00 s
+[INFO] No vcf output for file /home/zainab/hg002-variant-calling/results/clair3_output/tmp/pileup_output/pileup_Escherichia_coli_chromosome_1.vcf, remove empty file
